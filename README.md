@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" style="width: 100%;"/>
 
 <h3 align="center">
-  Challenge 05: Database and file upload in Node.js
+  Challenge 06: Database and file upload in Node.js
 </h3>
 
 <blockquote align="center">“Only desire the things you are willing to fight for!”</blockquote>
